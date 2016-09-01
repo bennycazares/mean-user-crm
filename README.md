@@ -1,7 +1,6 @@
 ## MEAN App: Users Management CRM
 
-## Mean Machine tutorial
-Created a sample application using MEAN stack
+#Created a sample application using MEAN stack
 mongodb
 express
 Angular
