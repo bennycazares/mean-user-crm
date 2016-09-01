@@ -1,10 +1,11 @@
-## MEAN App: Users Management CRM
+# MEAN App: Users Management CRM
 
-#Created a sample application using MEAN stack
-mongodb
-express
-Angular
-Node.js  
+##Created a sample application using MEAN stack
+
+##MongoDB
+##ExpressJS
+##AngularJS
+##Node.js  
 
 ngAnimate to add animations to all of our Angular directives (specifically ngShow/ngHide)
 app.routes will be the routing for our application
